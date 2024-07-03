@@ -16,5 +16,11 @@
     "firebase-admin": "^12.2.0",
     "google-auth-library": "^9.11.0",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.6.0",
+    "nodemon": "^3.1.4",
+    "supertest": "^7.0.0"
   }
 }
